@@ -1,0 +1,21 @@
+{
+  "name": "Autocomplete",
+  "version": "1.0.0",
+  "description": "An autocomplete component",
+  "main": "index.js",
+  "author": "varsha.saha",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "styled-components": "^4.1.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2"
+  }
+}
